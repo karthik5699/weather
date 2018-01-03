@@ -1,0 +1,48 @@
+*{
+	padding: 0;
+	margin:0;
+    font-weight: bold;
+    font-family: 'PT Sans', sans-serif;
+	
+}
+
+
+html{
+	background-color: #F7F54F;
+	background-image: initial;
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+}
+.whole{
+    background-color: #F7F54F;
+}
+.weather-heading{
+    text-align: center;
+    margin-top: 2rem;
+}
+.place{
+    text-align: center;
+    margin-top: 3rem;
+}
+.temp{
+    text-align: center;
+    margin-top: 1rem;
+}
+.weather{
+    text-align: center;
+    margin-top: 1rem;
+    text-transform: capitalize;
+}
+.icon{
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+
+}
